@@ -1,0 +1,1 @@
+numpy>=1.24\npandas>=2.0\nscipy>=1.10\nstatsmodels>=0.14\npytest>=7.0\n
